@@ -1,0 +1,34 @@
+main{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+h1, p{
+    line-height: 0.5;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 20px;
+} 
+
+section{
+    margin-top: 100px;
+}
+
+footer{
+    padding-top: 75px;
+    text-align: center;
+    color: grey;
+}
